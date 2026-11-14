@@ -18,3 +18,14 @@ The current logo set is stored in `assets/Logo/`:
 - `Favicon/` contains favicon artwork and its variations.
 
 All supplied SVG files are kept as individual vector assets.
+
+## Typography assets
+
+The font files are stored in `assets/Font/`:
+
+- `Bricolage Grotesque/` includes the variable font, static weights, license, and font README.
+- `Manrope/` includes the variable font, static weights, license, and font README.
+- Each font family has a `Static/` folder containing its individual weight files.
+- The original SIL Open Font License (OFL) is included with each family.
+
+Use the variable font files when variable weight (and, for Bricolage Grotesque, optical size and width) is supported. Use the static files when a specific weight file is needed.
